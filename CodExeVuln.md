@@ -45,9 +45,13 @@ nc -vv -l -p 8080
 
 ```
 ![code2](https://github.com/rahulrbk/Docs/blob/master/filevuln/code2.png)
+
 > Try to write the following command to the dvwa.
+
 ![code3](https://github.com/rahulrbk/Docs/blob/master/filevuln/code3.png) 
+
 > After executing the command the netcat listens the request.
+
 ![code3](https://github.com/rahulrbk/Docs/blob/master/filevuln/code4.png)
 
 <mark>Finally you can run the shell commands inside the terminal of target machine</mark>
