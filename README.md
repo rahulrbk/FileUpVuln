@@ -56,7 +56,7 @@ kali@kali:~$ weevely generate 12345 /home/kali/shell.php
      * Capture the packets making the intercept on 
      * Navigate to header section and change the file type to 'shell.php'
   ![file3](https://github.com/rahulrbk/Docs/blob/master/filevuln/file3.png)
-    * And click on upload to see the changes
+  > And click on upload to see the changes
   ![file4](https://github.com/rahulrbk/Docs/blob/master/filevuln/file4.png) 
   > To check whether the file is uploaded or not
   >Goto Kali terminal and type the following command:   
