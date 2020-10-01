@@ -1,4 +1,4 @@
-1. # How To Discover & Exploit Basic Code Execution Vulnerabilities To Hack Websites
+# How To Discover & Exploit Basic Code Execution Vulnerabilities To Hack Websites
 ## Things we need for the Lab:
 1. Kali linux
 2. Metasploitable linux
