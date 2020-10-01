@@ -4,6 +4,7 @@
 2. Metasploitable linux
 3. Netcat
 4. Terminator
+---
 <strong>Metasploitable linux</strong> The intentionally vulnerable target machine for evaluating Metasploit.
 
  * Make a new target machine in virtual box and try to login using the default username & password 
@@ -19,12 +20,14 @@ Install Terminator In Linux
 ```sh
 sudo apt-get install terminator
 ```
+---
 ## Open the browser and try to connect to the Metasploitable linux.
    * After terminal opens type <mark>"ifconfig"</mark>
    * see for the inet address assigned to the machine and copy it.
    * Make sure the virtual machines are connect in a virtual network.
    * if not then goto virtual box preference>network>add virtual network
    ![file](https://github.com/rahulrbk/Docs/blob/master/filevuln/file.PNG)
+---   
 ## Coming back to Kali machine
   * type the ip address of metasploitable linux and press enter.
   * Goto the navigation and use the tool DVWA.
@@ -35,6 +38,8 @@ sudo apt-get install terminator
 ![code](https://github.com/rahulrbk/Docs/blob/master/filevuln/code.png)
 
 ![code1](https://github.com/rahulrbk/Docs/blob/master/filevuln/code1.png)
+
+---
 
 ## Using Netcat tool in Terminator
 
